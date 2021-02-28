@@ -1,0 +1,7 @@
+{
+    "/api/*":{
+        "target":"https://demonoderestful.herokuapp.com/api/",
+        "secure":"true",
+        "logLevel":"debug"
+    }
+}
